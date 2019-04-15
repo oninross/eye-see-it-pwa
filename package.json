@@ -1,6 +1,6 @@
 {
   "name": "eyeseeit",
-  "version": "0.6.1",
+  "version": "1.0.0",
   "dependencies": {
     "browserify-shim": "^3.8.12",
     "dot": "^1.1.2",

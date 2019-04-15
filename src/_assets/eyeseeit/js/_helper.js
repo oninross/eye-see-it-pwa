@@ -1,6 +1,6 @@
 'use strict';
 
-const API_KEY = 'XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX';
+const API_KEY = '3058ec1975cc4906b101f76b1c0d9b64';
 
 let debounce = function (func, wait, immediate) {
     var timeout;
